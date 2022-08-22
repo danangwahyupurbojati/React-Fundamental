@@ -1,0 +1,10 @@
+.boxCssModule {
+    width: 300px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+}
+
+.textCssModule {
+    color: red;
+}
